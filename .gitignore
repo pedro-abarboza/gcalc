@@ -1,3 +1,16 @@
+.bashrc
+.cache/
+.gitconfig
+.ipython/
+.local/
+.my.cnf
+.profile
+.python_history
+.pythonstartup.py
+.ssh/
+.viminfo
+.vimrc
+.virtualenvs/
 *.pyc
 *.pyo
 *.*~
