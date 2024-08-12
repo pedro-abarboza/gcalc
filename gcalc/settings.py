@@ -54,7 +54,7 @@ ROOT_URLCONF = 'gcalc.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ['templates'],
+        'DIRS': ['gcalc/templates', 'templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
